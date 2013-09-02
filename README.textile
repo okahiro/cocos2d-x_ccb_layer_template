@@ -1,0 +1,5 @@
+h1. Cocos2d-xでCocosBuilderを使用する場合のLayerクラステンプレート
+
+暫定的にTitleLayerという名前になっています。
+
+
